@@ -1,2 +1,4 @@
 # Movie-recommender
-![Alt text](./asset/Screenshot 2023-09-01 200041.png?raw=true "Title")
+![Alt text](./assets/Screenshot1.png?raw=true "Title")
+![Alt text](./assets/Screenshot2.png?raw=true "Title")
+![Alt text](./assets/Screenshot3.png?raw=true "Title")
